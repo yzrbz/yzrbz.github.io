@@ -1,7 +1,9 @@
+http://example.com/2023/05/17/%E3%80%90%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97%E3%80%912023%C2%B75%C2%B717/
 http://example.com/2023/05/15/%E6%AC%A2%E8%BF%8E%EF%BC%81/
 http://example.com/tags/index.html
 http://example.com/categories/index.html
 http://example.com/
 http://example.com/tags/%E7%BD%91%E7%AB%99/
 http://example.com/tags/vlog/
+http://example.com/tags/%E6%9B%B4%E6%96%B0/
 http://example.com/categories/%E7%BD%91%E7%AB%99/
