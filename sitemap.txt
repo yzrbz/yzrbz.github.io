@@ -8,6 +8,6 @@ http://example.com/
 http://example.com/tags/%E7%BD%91%E7%AB%99/
 http://example.com/tags/%E6%9B%B4%E6%96%B0/
 http://example.com/tags/vlog/
-http://example.com/categories/C/
 http://example.com/categories/%E7%BD%91%E7%AB%99/
+http://example.com/categories/C/
 http://example.com/categories/C/%E7%BD%91%E7%AB%99/
